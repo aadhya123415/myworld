@@ -10,9 +10,14 @@ division
 x=a-b
 
 
+<<<<<<< HEAD
 cherry picking
 
 
 multiplication
 x=a*b
+
+
+percentage
+a/b
 
